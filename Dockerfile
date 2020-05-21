@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Erik Velasquez
+LABEL maintainer="erikvelasquez.25@gmail.com"
 
 ENV PYTHONUNBUFFERED 1
 
